@@ -24,5 +24,3 @@
    (t (check (append (cdr lst) (list (car lst))) (+ i 1) last))
   )
 )
-
-
